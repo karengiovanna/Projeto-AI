@@ -4,18 +4,16 @@
 
 >  Explorando o potencial das tendências tecnológicas das IAs Generativas 👀
 
-
-## 🎯 Bora Pro Desafio!?💪🤓
-
 ### Objetivos
 
 1. **Explorar IAs Generativas**: Utilizando essas tecnologias para criar conteúdos que sejam o mais realista possível. Pode ser produzido imagens, textos, áudios, vídeos ou combinações de tudo isso!
 2. **Efeito de Rede**: Resultados podem ser compartilhados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esquecendo de marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 
-### Exemplos e Insigths
+### Meu projeto
+- [E-BOOK](/e-book.md)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
+### Exemplos de projeto
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
