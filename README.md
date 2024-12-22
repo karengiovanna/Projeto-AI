@@ -2,32 +2,32 @@
 
 ## 🚀 Introdução
 
->  Explore o potencial das tendências tecnológicas das IAs Generativas 👀
+>  Explorando o potencial das tendências tecnológicas das IAs Generativas 👀
 
 
 ## 🎯 Bora Pro Desafio!?💪🤓
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-2. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+1. **Explorar IAs Generativas**: Utilizando essas tecnologias para criar conteúdos que sejam o mais realista possível. Pode ser produzido imagens, textos, áudios, vídeos ou combinações de tudo isso!
+2. **Efeito de Rede**: Resultados podem ser compartilhados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esquecendo de marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book Economia de Roraima: Limites e Possibilidades ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O e-book tem como intuito proporconar ao leitor um panorama da economia roraimense.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizado ChatGPT para gerar o conteúdo do e-book, porém o resultado não foi satisfatório. Houve várias redundâncias, orações prolongadas sem objetividade e sem detalhes tais como pesquisas reais e estatísticas.  
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A princípio tive dificuldade na criação das imagens pois a plataforma [Leonardo](https://leonardo.ai/) gera imagens baseadas em ilustrações e não em fotografias da vida real, logo, quando o prompt cita o Monumento Garimpeiros (presente na praça do centro Cívico em Roraima) é gerado uma imagem de um homem diferente do que encontramos no monumento solicitado. Esse resultado, mesmo divergente do esperado, foi escolhido como capa do e-book apenas para fins educacionais.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book pode ser visualizado neste link. 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
